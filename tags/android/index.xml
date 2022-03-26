@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>android on 🔥 AMIR ABBAS NAGHDI</title><link>https://aaaamirabbas.github.io/tags/android/</link><description>Recent content in android on 🔥 AMIR ABBAS NAGHDI</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aaaamirabbas.github.io/tags/android/index.xml" rel="self" type="application/rss+xml"/><item><title>MyBuddy app (pet owner version)</title><link>https://aaaamirabbas.github.io/projects/mybuddy-pet-owner/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/mybuddy-pet-owner/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/mybuddy_pet_owner_screenshot.png" alt="Featured image of post MyBuddy app (pet owner version)" />&lt;p>The myBuddy app focuses on pet health in two versions for doctors and for pet owners.
+This app was commissioned by a startup in &lt;strong>Woodland Hills, California&lt;/strong>, and I developed it with the development team.&lt;/p>
+&lt;p>This application is for pet owners and the vet application is introduced in a separate post.&lt;/p>
+&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/mybuddy_pet_owner_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVP, MVVM, No Architecture&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2021&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgemybuddyvet-bluestylefor-the-badgelogoandroidlogocolorwhitehttpsmybuddyvet">&lt;a class="link" href="https://mybuddy.vet" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/mybuddy.vet-blue?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>MyBuddy app (vet version)</title><link>https://aaaamirabbas.github.io/projects/mybuddy-vet/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/mybuddy-vet/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/mybuddy_vet_screenshot.png" alt="Featured image of post MyBuddy app (vet version)" />&lt;p>The myBuddy app focuses on pet health in two versions for vet and for pet owners.
+This app was commissioned by a startup in &lt;strong>Woodland Hills, California&lt;/strong>, and I developed it with the development team.&lt;/p>
+&lt;p>This application is for vet and the pet owners application is introduced in a separate post.&lt;/p>
+&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/mybuddy_vet_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVP, MVVM, No Architecture&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2021&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgemybuddyvet-bluestylefor-the-badgelogoandroidlogocolorwhitehttpsmybuddyvet">&lt;a class="link" href="https://mybuddy.vet" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/mybuddy.vet-blue?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Nahad in-house application</title><link>https://aaaamirabbas.github.io/projects/nahad_app/</link><pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/nahad_app/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/nahad_app_screenshot.png" alt="Featured image of post Nahad in-house application" />&lt;p>I have developed this application together with the development team and we are further developing this application.&lt;/p>
+&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/nahad_app_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVVM&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2022&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgenahadir-bluestylefor-the-badgelogoandroidlogocolorwhitehttpswwwnahadir">&lt;a class="link" href="https://www.nahad.ir" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/Nahad.ir-blue?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Nahad messenger</title><link>https://aaaamirabbas.github.io/projects/nahad_chat/</link><pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/nahad_chat/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/nahad_chat_screenshot.png" alt="Featured image of post Nahad messenger" />&lt;p>I have developed this application together with the development team and we are further developing this application.&lt;/p>
+&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/nahad_chat_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVVM&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2022&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgenahadir-bluestylefor-the-badgelogoandroidlogocolorwhitehttpswwwnahadir">&lt;a class="link" href="https://www.nahad.ir" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/Nahad.ir-blue?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Barandehsho Game</title><link>https://aaaamirabbas.github.io/projects/barandehsho/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/barandehsho/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/barandeh_sho_screenshot.png" alt="Featured image of post Barandehsho Game" />&lt;p>It is under the control panel, this game was made to customer order and is still being developed and changed.&lt;/p>
+&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/barandeh_sho_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVVM&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2019&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgegoogleplay-brightgreenstylefor-the-badgelogogoogleplaylogocolorwhitehttpsplaygooglecomstoreappsdetailsidcombarandehsho">&lt;a class="link" href="https://play.google.com/store/apps/details?id=com.barandeh.sho" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/GooglePlay-brightgreen?style=for-the-badge&amp;amp;logo=googlePlay&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Behzi application</title><link>https://aaaamirabbas.github.io/projects/behzi/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/behzi/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/behzi_screenshot.png" alt="Featured image of post Behzi application" />&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/behzi_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVVM&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2019&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgealo-bluestylefor-the-badgelogoandroidlogocolorwhitehttpswwwaloappappportfolioq01nnp">&lt;a class="link" href="https://www.aloapp.app/portfolio/Q01nNP" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/ALO-blue?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Challenge Game</title><link>https://aaaamirabbas.github.io/projects/challenge/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/challenge/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/challenge_screenshot.png" alt="Featured image of post Challenge Game" />&lt;p>This game has up to 100,000 users and more than 10,000 comments, but the number of users has been decreasing over the years&lt;/p>
+&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/challenge_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>First Android Arch&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2016&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgecafebazaar-brightgreenstylefor-the-badgelogoandroidlogocolorwhitehttpscafebazaarirappcomabbasnaghdiihosh">&lt;a class="link" href="https://cafebazaar.ir/app/com.abbasnaghdi.ihosh" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/CafeBazaar-brightgreen?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Insurance application</title><link>https://aaaamirabbas.github.io/projects/insurance/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/insurance/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/bimeh_screenshot.png" alt="Featured image of post Insurance application" />&lt;p>This application also takes the idea from the company &lt;strong>friendsurance Australia&lt;/strong> and uses it as a subset in exchange for discounts on insurance services and premiums. This idea and application is ranked 7th in the programming competitions &lt;strong>Sharif University&lt;/strong> .
+&lt;br>&lt;/br>&lt;/p>
+&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/bimeh_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVVM&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2020&lt;/code>&lt;/strong>
+&lt;br>&lt;/br>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgecomming_soon-blackstylefor-the-badgelogoandroidlogocolorwhite">&lt;img src="https://img.shields.io/badge/Comming_Soon-black?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/h3></description></item><item><title>Mizbanyab application</title><link>https://aaaamirabbas.github.io/projects/mizbanyab/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/mizbanyab/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/mizbanyab_screenshot.png" alt="Featured image of post Mizbanyab application" />&lt;p>In this application, temporary accommodations such as (apartments, suites, villas, gardens, houses) are rented by hosts and rented by travelers.&lt;/p>
+&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/mizbanyab_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVP&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Java, Kotlin&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2019&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgegoogleplay-brightgreenstylefor-the-badgelogogoogleplaylogocolorwhitehttpsplaygooglecomstoreappsdetailsidcommizbanyabandroid">&lt;a class="link" href="https://play.google.com/store/apps/details?id=com.mizbanyab.android" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/GooglePlay-brightgreen?style=for-the-badge&amp;amp;logo=googlePlay&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Moodic application</title><link>https://aaaamirabbas.github.io/projects/moodic/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/moodic/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/moodic_screenshot.png" alt="Featured image of post Moodic application" />&lt;p>(the company in which I am the senior developer of Android), which is designed for streaming movies and series. The idea of ​​this application is similar to Netflix and Filimo.&lt;/p>
+&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/moodic_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>Clean Architecture&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2019&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgemoodic-bluestylefor-the-badgelogoandroidlogocolorwhitehttpsdevmymoodiccom">&lt;a class="link" href="https://dev.mymoodic.com/" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/Moodic-blue?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Reactor library</title><link>https://aaaamirabbas.github.io/projects/reactor/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/reactor/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/reactor_screenshot.png" alt="Featured image of post Reactor library" />&lt;p>Hello, in this article I want to introduce the Android database &lt;strong>[Reactor] (&lt;a class="link" href="https://github.com/aaaamirabbas/reactor" target="_blank" rel="noopener"
+>https://github.com/aaaamirabbas/reactor&lt;/a>)&lt;/strong>.&lt;/p>
+&lt;p>A few years ago, when I first entered the world of Android programming, I made a game called Black Intelligence at that time (a game similar to the sun), which, of course, was on the front page of Bazaar Cafe three or four times and was unfortunately removed by Bazaar Cafe (due to Using the name of Aftabeh in the title of the game :) which, of course, I later made another game that continued its path called** [Challenge] (&lt;a class="link" href="https://cafebazaar.ir/app/com.abbasnaghdi.ihosh" target="_blank" rel="noopener"
+>https://cafebazaar.ir/app/com.abbasnaghdi.ihosh&lt;/a>)**.&lt;/p>
+&lt;p>I remember in those days people were downloading games and hacking scores with Lucky Patcher and other apps, and in fact there were a few variables whose values ​​could be easily fetched at runtime, and Black Intelligence was no exception. The first thing I saw was that people were trying to change their privileges, but at that time I solved this problem by encrypting the stored data, which of course had a lot of coding and problems and…&lt;/p>
+&lt;p>But today, as I become more professional, I know that for every application and every game I build, I have to follow the important principle that data that needs to be kept secure must be encrypted.&lt;/p>
+&lt;p>Later, the idea of ​​building a personalized and optimized library &lt;strong>Key-Value&lt;/strong> came to my mind to solve many problems of SharedPreferences. Of course, there are many libraries, but I wanted something different, so I did it and the rector was born.&lt;/p>
+&lt;p>What capabilities does the rector have now?&lt;/p>
+&lt;ul>
+&lt;li>It is very light and compact, about 17 KB&lt;/li>
+&lt;li>It has symmetric storage and retrieval (Symmetric) that protects your data and the key to encrypt data in each application and each device is different, which causes more protection (of course not definite but efficient, there is no certainty in the world of 0 and 1)&lt;/li>
+&lt;li>You can store any data unlike SharedPreferences&lt;/li>
+&lt;li>Data is stored separately based on typing, which reduces the memory soldier&lt;/li>
+&lt;li>It has good performance, which is improving more in each version&lt;/li>
+&lt;/ul>
+&lt;p>And of course, other features that are going to be added in the second version, all of which you can see in the project GitHub repository.&lt;/p>
+&lt;p>All right now let&amp;rsquo;s do a little comparison (comparison only in use not infrastructure)&lt;/p>
+&lt;p>SharedPreferences&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="n">val&lt;/span> &lt;span class="n">sharedPref&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">activity&lt;/span>&lt;span class="o">?&lt;/span> &lt;span class="o">.&lt;/span>&lt;span class="na">getSharedPreferences&lt;/span> &lt;span class="o">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">getString&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="n">R&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">string&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">preference_file_key&lt;/span>&lt;span class="o">),&lt;/span> &lt;span class="n">Context&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">MODE_PRIVATE&lt;/span>&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Definition &lt;strong>Reacto&lt;/strong>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="n">val&lt;/span> &lt;span class="n">reactor&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">Reactor&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="n">context&lt;/span>&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Save and retrieve multiple variables in SharedPreferences&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="n">val&lt;/span> &lt;span class="n">editor&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">sharedPref&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">edit&lt;/span> &lt;span class="o">();&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">editor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">putBoolean&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="kc">true&lt;/span>&lt;span class="o">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">editor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">putString&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="s">&amp;#34;string value&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">editor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">commit&lt;/span> &lt;span class="o">();&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">val&lt;/span> &lt;span class="n">name&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">sharedPref&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">getString&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="kc">null&lt;/span>&lt;span class="o">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">val&lt;/span> &lt;span class="n">isName&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">sharedPref&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">getBoolean&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="kc">null&lt;/span>&lt;span class="o">);&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Save multiple and recover in &lt;strong>Reactor&lt;/strong>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="n">reactor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">put&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="s">&amp;#34;your string&amp;#34;&lt;/span>&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">reactor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">put&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="n">1000&lt;/span>&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">val&lt;/span> &lt;span class="n">name&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">reactor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">get&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="s">&amp;#34;&amp;#34;&lt;/span>&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">val&lt;/span> &lt;span class="n">isDay&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">reactor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">get&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="n">0&lt;/span>&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Save and retrieve a class in SharedPreferences&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">// ops :)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Save and retrieve a class in &lt;strong>Reactor&lt;/strong>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="n">reactor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">put&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="n">YourClass&lt;/span> &lt;span class="o">())&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">val&lt;/span> &lt;span class="n">yourClass&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">reactor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">get&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;key_name&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="n">YourClass&lt;/span> &lt;span class="o">())&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Of course, the &lt;strong>Reactor&lt;/strong> capabilities do not end with these examples, and to see a more complete document, refer to the project&amp;rsquo;s GitHub repository.&lt;/p>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgegithub-blackstylefor-the-badgelogogithublogocolorwhitehttpsgithubcomaaaamirabbasreactor">&lt;a class="link" href="https://github.com/aaaamirabbas/reactor" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/Github-black?style=for-the-badge&amp;amp;logo=github&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Ticket application</title><link>https://aaaamirabbas.github.io/projects/ticket/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/ticket/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/ticket_screenshot.png" alt="Featured image of post Ticket application" />&lt;p>&lt;img src="https://aaaamirabbas.github.io/../../img/ticket_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVVM&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2019&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgealo-bluestylefor-the-badgelogoandroidlogocolorwhitehttpswwwaloappappportfolioez7jou">&lt;a class="link" href="https://www.aloapp.app/portfolio/EZ7JOU" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/ALO-blue?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item><item><title>Unit application</title><link>https://aaaamirabbas.github.io/projects/unit/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://aaaamirabbas.github.io/projects/unit/</guid><description>&lt;img src="https://aaaamirabbas.github.io/img/student_screenshot.png" alt="Featured image of post Unit application" />&lt;p>This application is designed for &lt;strong>students&lt;/strong>, but you can use this application wherever you need an audio booklet.
+&lt;img src="https://aaaamirabbas.github.io/../../img/student_screenshot.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Architecture: &lt;code>MVP&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Programming language: &lt;code>Kotlin, Java&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Operating system: &lt;code>Android&lt;/code>&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Year of production: &lt;code>2018&lt;/code>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="more">&lt;code>More&lt;/code>&lt;/h4>
+&lt;h3 id="urlhttpsimgshieldsiobadgecafebazaar-brightgreenstylefor-the-badgelogoandroidlogocolorwhitehttpscafebazaarirappcomnaqdistudent">&lt;a class="link" href="https://cafebazaar.ir/app/com.naqdi.student" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/CafeBazaar-brightgreen?style=for-the-badge&amp;amp;logo=android&amp;amp;logoColor=white"
+loading="lazy"
+alt="Url"
+>&lt;/a>&lt;/h3></description></item></channel></rss>
